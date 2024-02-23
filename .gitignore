@@ -1,0 +1,7 @@
+test*
+scripts/
+vis_mask.py
+
+.DS_Store
+.idea
+.vscode
