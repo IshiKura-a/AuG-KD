@@ -2,7 +2,7 @@
 
 <h2><a href="https://openreview.net/forum?id=fcqWJ8JgMR">[ICLR'24 Poster] AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation</a></h2>
 
-[Zihao Tang](https://github.com/IshiKura-a/)<sup>1</sup>, [Zheqi Lv](https://github.com/HelloZicky)<sup>1</sup>, [Shengyu Zhang](https://shengyuzhang.github.io/)<sup>1*</sup>, Yifan Zhou<sup>2</sup>, Xinyu Duan<sup>3</sup>, [Fei Wu](https://mypage.zju.edu.cn/wufei)<sup>1</sup>, [Kun Kuang](https://kunkuang.github.io/)<sup>1*</sup>
+[Zihao Tang](https://github.com/IshiKura-a/)<sup>1</sup>, [Zheqi Lv](https://github.com/HelloZicky)<sup>1</sup>, [Shengyu Zhang](https://shengyuzhang.github.io/)<sup>1*</sup>, [Yifan Zhou](https://github.com/Geniusyingmanji)<sup>2</sup>, Xinyu Duan<sup>3</sup>, [Fei Wu](https://mypage.zju.edu.cn/wufei)<sup>1</sup>, [Kun Kuang](https://kunkuang.github.io/)<sup>1*</sup>
  
 <sup>1</sup>[ZJU](https://www.zju.edu.cn/english/), <sup>2</sup>[SJTU](https://en.sjtu.edu.cn/), <sup>3</sup>Huawei Cloud
 <br> <sup>*</sup>Corresponding Authors
